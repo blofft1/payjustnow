@@ -1,0 +1,31 @@
+{
+  "variantName": "cards-stats",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-03-11T00:00:00Z",
+  "sourceContext": {
+    "originUrl": "https://payjustnow.com/business/",
+    "originPage": "business landing page",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "wide",
+    "purpose": "statistics",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "icon + title + description + large figure per card",
+    "buttonCount": 0,
+    "imageCount": 4
+  },
+  "reuseGuidance": {
+    "suitableFor": ["statistics displays", "metric/KPI showcases"],
+    "notSuitableFor": ["image-heavy cards", "product listings"]
+  },
+  "usage": {
+    "pagesUsing": ["/business/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-11T00:00:00Z"
+  }
+}

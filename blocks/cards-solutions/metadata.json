@@ -1,0 +1,31 @@
+{
+  "variantName": "cards-solutions",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-03-11T00:00:00Z",
+  "sourceContext": {
+    "originUrl": "https://payjustnow.com/business/",
+    "originPage": "business landing page",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "product-solutions",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "image + label + title + description + CTA per card",
+    "buttonCount": 2,
+    "imageCount": 2
+  },
+  "reuseGuidance": {
+    "suitableFor": ["product solution cards", "service offering displays"],
+    "notSuitableFor": ["simple text cards", "icon-based feature lists"]
+  },
+  "usage": {
+    "pagesUsing": ["/business/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-11T00:00:00Z"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "variantName": "cards-channels",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-03-11T00:00:00Z",
+  "sourceContext": {
+    "originUrl": "https://payjustnow.com/business/",
+    "originPage": "business landing page",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "channel-types",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "title + description per card, no images",
+    "buttonCount": 0,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": ["channel/integration type displays", "text-only feature cards"],
+    "notSuitableFor": ["image-heavy product cards", "hero-style content"]
+  },
+  "usage": {
+    "pagesUsing": ["/business/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-11T00:00:00Z"
+  }
+}

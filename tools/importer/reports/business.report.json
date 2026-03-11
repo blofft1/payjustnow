@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "url": "https://payjustnow.com/business/",
+  "path": "business",
+  "timestamp": "2026-03-11T01:58:44.776Z",
+  "title": "Business Home - PayJustNow",
+  "template": "business-page",
+  "blocks": [
+    "hero-business",
+    "carousel-logos",
+    "cards-solutions",
+    "cards-stats",
+    "columns-marketing",
+    "cards-resources",
+    "carousel-benefits",
+    "cards-channels",
+    "carousel-testimonials"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "variantName": "hero-business",
+  "baseBlock": "hero",
+  "version": "1.0.0",
+  "created": "2026-03-11T00:00:00Z",
+  "sourceContext": {
+    "originUrl": "https://payjustnow.com/business/",
+    "originPage": "business landing page",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "business-hero",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "heading + paragraph + CTA + statistics + video",
+    "buttonCount": 1,
+    "imageCount": 1
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "business landing pages",
+      "product pages with statistics",
+      "dark hero sections with media"
+    ],
+    "notSuitableFor": [
+      "minimal text-only heroes",
+      "light background hero sections"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/business/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-11T00:00:00Z"
+  }
+}

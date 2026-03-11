@@ -1,0 +1,31 @@
+{
+  "variantName": "carousel-logos",
+  "baseBlock": "carousel",
+  "version": "1.0.0",
+  "created": "2026-03-11T00:00:00Z",
+  "sourceContext": {
+    "originUrl": "https://payjustnow.com/business/",
+    "originPage": "business landing page",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "compact",
+    "purpose": "brand-logos",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "scrolling logo images",
+    "buttonCount": 0,
+    "imageCount": 10
+  },
+  "reuseGuidance": {
+    "suitableFor": ["brand logo strips", "partner logo carousels", "client logo displays"],
+    "notSuitableFor": ["content carousels with text", "image galleries"]
+  },
+  "usage": {
+    "pagesUsing": ["/business/index"],
+    "reuseCount": 1,
+    "lastUsed": "2026-03-11T00:00:00Z"
+  }
+}

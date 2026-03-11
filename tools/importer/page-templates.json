@@ -1,0 +1,179 @@
+{
+  "templates": [
+    {
+      "name": "business-page",
+      "urls": [
+        "https://payjustnow.com/business/"
+      ],
+      "description": "Business landing page for PayJustNow merchant services",
+      "blocks": [
+        {
+          "name": "hero-business",
+          "instances": [
+            "section.section-hero"
+          ]
+        },
+        {
+          "name": "carousel-logos",
+          "instances": [
+            "section.section-carousel.section-brands .carousel.carousel-logos"
+          ]
+        },
+        {
+          "name": "cards-solutions",
+          "instances": [
+            "section.section-solutions .solutions"
+          ]
+        },
+        {
+          "name": "cards-stats",
+          "instances": [
+            "section.section-statistics-scroller .statistics-scroller"
+          ]
+        },
+        {
+          "name": "columns-marketing",
+          "instances": [
+            "section.section-marketing .s-inner"
+          ]
+        },
+        {
+          "name": "cards-resources",
+          "instances": [
+            "section.section-resources .resources"
+          ]
+        },
+        {
+          "name": "carousel-benefits",
+          "instances": [
+            "section.section-benefits .carousel.carousel-benefits"
+          ]
+        },
+        {
+          "name": "cards-channels",
+          "instances": [
+            "section.section-channels .channels"
+          ]
+        },
+        {
+          "name": "carousel-testimonials",
+          "instances": [
+            "section.section-testimonials .testimonials"
+          ]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Hero",
+          "selector": "section.section-hero",
+          "style": "dark",
+          "blocks": [
+            "hero-business"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-2",
+          "name": "Brand Logos",
+          "selector": "section.section-carousel.section-brands",
+          "style": "dark",
+          "blocks": [
+            "carousel-logos"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-3",
+          "name": "Solutions",
+          "selector": "section.section-solutions",
+          "style": "dark",
+          "blocks": [
+            "cards-solutions"
+          ],
+          "defaultContent": [
+            "section.section-solutions .s-inner > .s-content"
+          ]
+        },
+        {
+          "id": "section-4",
+          "name": "Statistics Scroller",
+          "selector": "section.section-statistics-scroller",
+          "style": "dark",
+          "blocks": [
+            "cards-stats"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-5",
+          "name": "Marketing Solutions",
+          "selector": "section.section-marketing.section-image-stack",
+          "style": null,
+          "blocks": [
+            "columns-marketing"
+          ],
+          "defaultContent": []
+        },
+        {
+          "id": "section-6",
+          "name": "Resources",
+          "selector": "section.section-resources",
+          "style": "dark",
+          "blocks": [
+            "cards-resources"
+          ],
+          "defaultContent": [
+            "section.section-resources .s-inner > .s-content"
+          ]
+        },
+        {
+          "id": "section-7",
+          "name": "Benefits",
+          "selector": "section.section-benefits",
+          "style": null,
+          "blocks": [
+            "carousel-benefits"
+          ],
+          "defaultContent": [
+            "section.section-benefits .s-inner > .s-content"
+          ]
+        },
+        {
+          "id": "section-8",
+          "name": "Channels",
+          "selector": "section.section-channels",
+          "style": null,
+          "blocks": [
+            "cards-channels"
+          ],
+          "defaultContent": [
+            "section.section-channels .s-inner > .s-content"
+          ]
+        },
+        {
+          "id": "section-9",
+          "name": "Testimonials",
+          "selector": "section.section-testimonials",
+          "style": null,
+          "blocks": [
+            "carousel-testimonials"
+          ],
+          "defaultContent": [
+            "section.section-testimonials .s-inner > .s-content"
+          ]
+        },
+        {
+          "id": "section-10",
+          "name": "CTA Banner",
+          "selector": "section.section-cta",
+          "style": "accent",
+          "blocks": [],
+          "defaultContent": [
+            "section.section-cta .cta"
+          ]
+        }
+      ]
+    }
+  ]
+}
