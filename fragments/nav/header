@@ -1,0 +1,28 @@
+<main>
+  <div>
+    <p><a href="/business"><img src="./payjustnow-logo.png" alt="PayJustNow">PayJustNow</a></p>
+  </div>
+  <div>
+    <ul>
+      <li>
+        <p><a href="/bnpl">BNPL</a></p>
+      </li>
+      <li>
+        <p><a href="/retail-credit">Retail Credit</a></p>
+      </li>
+      <li>
+        <p><a href="/marketing-solutions">Marketing Solutions</a></p>
+      </li>
+      <li>
+        <p><a href="/merchant-portal">Merchant Portal</a></p>
+      </li>
+      <li>
+        <p><a href="/business-support">Business Support</a></p>
+      </li>
+    </ul>
+  </div>
+  <div>
+    <p><a href="https://payjustnowsupport.myfreshworks.com/crm/sales/web_forms/080ee6330d08841de8bd402e63d21d1f25e24e52051450bd4320d4fd0374683c/form.html">Apply Now</a></p>
+    <p><a href="/tools/widgets/toggle"><span class="icon icon-menu"></span></a></p>
+  </div>
+</main>

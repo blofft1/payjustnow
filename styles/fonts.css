@@ -1,0 +1,50 @@
+/* ABC Gravity Compressed - Display/Heading font (H1, H2) */
+@font-face {
+  font-family: "ABC Gravity Compressed";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/styles/fonts/abc-gravity-compressed-900.woff2") format("woff2");
+}
+
+/* Acid Grotesk - UI/Body sans-serif font */
+@font-face {
+  font-family: "Acid Grotesk";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/styles/fonts/acid-grotesk-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Acid Grotesk";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/styles/fonts/acid-grotesk-500.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Acid Grotesk";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/styles/fonts/acid-grotesk-700.woff2") format("woff2");
+}
+
+/* P22 Mackinac - Serif font for paragraphs and H3 */
+@font-face {
+  font-family: "P22 Mackinac";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/styles/fonts/p22-mackinac-400.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "P22 Mackinac";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/styles/fonts/p22-mackinac-500.woff2") format("woff2");
+}
